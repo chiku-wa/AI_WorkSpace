@@ -4,7 +4,7 @@ ChatGPTにて。
 
 # MCP構築時のpyenvを介したPython導入のメリット
 
-![alt text](docs/images/README/image-4.png)
+![alt text](docs/images/README/image-5.png)
 
 # AI時代における思考の転換方法
 
